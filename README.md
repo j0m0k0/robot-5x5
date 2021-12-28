@@ -1,5 +1,5 @@
 <h1>Robot 5x5 Simulator in Node.</h1>
-This projext simulates a robot moving in a 5x5 2d universe using node.js
+This project simulates a robot moving in a 5x5 2d space using node.js
 
 
 ## Script abilities
